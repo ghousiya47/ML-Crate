@@ -65,7 +65,7 @@ The data includes the main languages and the most popular among students. The da
 **WHAT I HAD DONE**
 
 * Load the dataset which is in zip file format unzipped it and than concatenated all 8 CSV files.
-* After Concatenation it contains 34442 entries in it and having 47 columns in it.
+* After Concatenation it contains 34442 entries in it and having 12 columns in it.
 * Checked for missing values and cleaned the data accordingly.
 * Analyzed the data, found insights and visualized them accordingly.
 * Plotting heatmap using correlation and checking the relation between different features.
